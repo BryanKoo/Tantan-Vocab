@@ -1,4 +1,3 @@
 # Tantan-Vocab
-Project folder for Tantan Vocabulary~
-
-## Checkout the Wiki page!!
+Project folder for Tantan Vocabulary~  
+Check the Wiki page!!
